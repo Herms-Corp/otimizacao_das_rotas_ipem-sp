@@ -1,7 +1,8 @@
-# 📌 MVP - PAINEL INTERATIVO DE CARGAS PERIGOSAS E ESPECIAIS
+# 📌 MVP - PAINEL INTERATIVO - OTIMIZAÇÃO DE ROTAS
 
 ## 🎯 Objetivo do MVP
-O objetivo desse MVP é entregar um dashboard que apresente a visualização das principais cargas especiais e periogosas movimentadas do ano de 2013 até 2024 identificando as principais origens e destinos dessas cargas. Com isso poderá ser criadas ou melhoradas políticas de fiscalizações para aumentar a efetividade dessas fiscalizações. 
+O objetivo desse MVP é entregar um dashboard com gráficos e mapas dinâmicos comparando as rotas históricas com as rotas otimizadas da equipe de fiscalização do IPEM.
+Com essa ferramenta será possível planejar rotas que possibilite fiscalizar mais estabelecimentos com o mesmo tempo disponível, ou seja, tornar a logística de vistoria mais eficaz. 
 Com essa ferramenta será possível avaliar se alguma cidade deve ter mais prioridade para vistorias devido a sua forte movimentação. Isso pode aumentar a produtividade das equipes de fiscais e a segurança aos civis nas estradas. 
 
 ---
