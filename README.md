@@ -1,5 +1,5 @@
 # HermsCorp
-
+ 
  Projeto acadêmico em parceria com o IPEM (Instituto de Pesos e Medidas) e o CADI (Centro de Aprendizagem em Desenvolvimento e Integração) baseada na metodologia ÁGIL SCRUM, que busca desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
@@ -49,20 +49,15 @@
 
 | Rank | Prioridade | User Story  | Estimativa | Sprint |
 |------|------------|-------------|------------|--------|
-| 1  | Alta  | Como gestor público, quero ver um dashboard com dados gerais de cargas especiais e perigosas, para ter uma visão rápida do cenário             | 13  | 1   |
-| 2  | Média  | Como fiscal, quero visualizar as cargas transportadas na série histórica (2013 a 2025), para avaliar a variação temporal.                           | 08  | 1  | 
-| 3  | Alta  | Como gestor público, quero visualizar cargas por estado, para identificar regiões críticas.                                                    | 13  | 1   |
-| 4  | Média | Como fiscal, quero ver mapa interativo, das matrizes de OD (origem e destino) para facilitar a interpretação dos dados.                          | 20  | 1   |
-| 5  | Alta  | Como analista, quero identificar os principais tipos de cargas perigosas, para priorizar fiscalização.                                         | 08  | 1   |
-| 6  | Alta  | Como gestor público, quero ver os modais utilizados, para avaliar riscos logísticos.                                                           | 05  | 2   |
-| 7  | Alta  | Como analista, quero identificar as principais cargas por estado, para entender fluxos logísticos.                                                 | 20  | 2   |
-| 8  | Média | Como gestor público, quero visualizar gráficos de tendência, para identificar crescimento ou queda.                                            | 20  | 2   |
-| 9 | Alta  | Como gestor público, quero ver as empresas que mais transportam cargas perigosas, para priorizar inspeções.                                    | 13  | 2   |
-| 10 | Média | Como analista, quero comparar estados, para identificar padrões e discrepâncias.                                                               | 13  | 2   |
-| 11 | Média | Como analista, quero um dashboard rápido, para melhorar a usabilidade e eficiência de busca.                                                    | 05  | 3   |
-| 12 | Média | Como usuário, quero acessar dados com poucos cliques, para ganhar eficiência.                                                                  | 05  | 3   |
-| 13 | Baixa | Como fiscal, quero acessar via celular/tablet, para consultar em campo.                                                                        | 03  | 3   |
-
+| 1 | Alta  | Como gestor público, quero ver um painel mapas históricos de fiscalizações, para analisar rotas anteriores.                    | 13 | 1 |
+| 2 | Alta  | Como gestor público, quero ver mapas com rotas otimizadas, para aumentar o números de fiscalizações em um certo perímetro.     | 20 | 1 |
+| 3 | Média | Como gestor público, quero analisar quais cidades e bairros são mais fiscalizados, para planejar rotas de fiscalizações com mais precisão. | 5 | 1 |
+| 4 | Alta  | Como gestor público, quero um demonstrativo de fiscalizações por fiscais, para mensurar o desempenho de cada equipe.           | 20 | 2 |
+| 5 | Média | Como gestor público, quero ver em percentual o status das fiscalizações, para mensurar a qualidade dos aparelhos por regiões.  | 13 | 2 |
+| 6 | Alta  | Como gestor público, quero analisar a quantidade e qual(is) aparelhos foram fiscalizados, para intensificar ou atenuar as vistorias por estabelecimento. | 13 | 2 |
+| 7 | Alta  | Como fiscal do IPEM, quero ver informações históricas sobre a última vistoria realizada no estabelecimento, para que consiga comparar com o cenário atual.| 13 | 2 |
+| 8 | Média |  Como gestor, quero filtrar por período, para uma análise mais pontual.                                                      | 5  | 3 |
+| 9 | Média | Como agente do Ipem, quero localizar um estabelecimento, pelo endereço e/ou Código da propriedade, para fácil acesso aos dados históricos. | 5 | 3 |
   
 # Registro das Sprints
 
