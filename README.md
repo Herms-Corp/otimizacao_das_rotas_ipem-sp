@@ -28,14 +28,14 @@
 
 
 # Objetivo do Projeto
- Desenvolver um dashboard interativo com dados agregados de fluxo de cargas especiais e perigosas. O sistema deve apresentar métricas por estado, como:
- 
-* quais são as principais cargas movimentadas;
-* principais modais de transporte;
-* matriz OD (Origem e Destino);
-* evolução da movimentação ao longo do tempo;
-* quais as principais empresas movimentadoras de cargas perigosas com declaração realizada.
+ Desenvolver uma plataforma interativa para otimizar as rotas de fiscalizações do IPEM-SP.
 
+## Principais funcionalidades: 
+ 
+ * Mapas com registro histórico de fiscalização;
+ * Mapas com rotas otimizadas;
+ * Gráficos de desempenho individual e coletivo;
+ * Buscador de registros das últimas vistorias.
 
 # Tecnologias Utilizadas
 
