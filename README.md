@@ -3,8 +3,8 @@
  Projeto acadêmico em parceria com o IPEM (Instituto de Pesos e Medidas) e o CADI (Centro de Aprendizagem em Desenvolvimento e Integração) baseada na metodologia ÁGIL SCRUM, que busca desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias](#Tecnologias-Utilizadas)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
