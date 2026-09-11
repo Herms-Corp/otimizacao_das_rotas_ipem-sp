@@ -50,8 +50,8 @@
 | Rank | Prioridade | User Story  | Estimativa | Sprint |
 |------|------------|-------------|------------|--------|
 | 1 | Alta  | Como gestor público, quero ver um painel mapas históricos de fiscalizações, para analisar rotas anteriores.                    | 13 | 1 |
-| 2 | Alta  | Como gestor público, quero ver mapas com rotas otimizadas, para aumentar o números de fiscalizações em um certo perímetro.     | 20 | 1 |
-| 3 | Média | Como gestor público, quero analisar quais cidades e bairros são mais fiscalizados, para planejar rotas de fiscalizações com mais precisão. | 5 | 1 |
+| 2 | Média | Como gestor público, quero analisar quais cidades e bairros são mais fiscalizados, para planejar rotas de fiscalizações com mais precisão. | 5 | 1 |
+| 3 | Alta  | Como gestor público, quero ver mapas com rotas otimizadas, para aumentar o números de fiscalizações em um certo perímetro.     | 20 | 2 |
 | 4 | Alta  | Como gestor público, quero um demonstrativo de fiscalizações por fiscais, para mensurar o desempenho de cada equipe.           | 20 | 2 |
 | 5 | Média | Como gestor público, quero ver em percentual o status das fiscalizações, para mensurar a qualidade dos aparelhos por regiões.  | 13 | 2 |
 | 6 | Alta  | Como gestor público, quero analisar a quantidade e qual(is) aparelhos foram fiscalizados, para intensificar ou atenuar as vistorias por estabelecimento. | 13 | 2 |
