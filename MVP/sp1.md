@@ -1,16 +1,16 @@
 # 📌 MVP - PAINEL INTERATIVO - OTIMIZAÇÃO DE ROTAS
 
 ## 🎯 Objetivo do MVP
-O objetivo desse MVP é entregar um dashboard com gráficos e mapas dinâmicos comparando as rotas históricas com as rotas otimizadas da equipe de fiscalização do IPEM.
-Com essa ferramenta será possível planejar rotas que possibilite fiscalizar mais estabelecimentos com o mesmo tempo disponível, ou seja, tornar a logística de vistoria mais eficaz. 
-Com essa ferramenta será possível avaliar se alguma cidade deve ter mais prioridade para vistorias devido a sua forte movimentação. Isso pode aumentar a produtividade das equipes de fiscais e a segurança aos civis nas estradas. 
+O objetivo desse MVP é entregar um dashboard com gráficos e mapas dinâmicos para analisar o histórico de fiscalização da equipe de fiscalização do IPEM.
+Com a ferramenta é possível verificar as trajetórias ao longo de tempo dos agentes do IPEM.
+Essa etapa é a estrutura para otimizar as rotas, já que através de uma análise histórica, será possível calcular uma solução eficaz de desempenho.
 
 ---
 
 ## 📝 Descrição da Solução
-> Foi desenvolvido um dashboard interativo que mostra informações principais sobre as movimentações das cargas periogosas entre os Estados.  
-- Nele contém: Evolução por ano, ranking de produtos e cidades que mais recebem ou enviam produtos periogosos.   
-- Limitação: Confiabilidade das unidades de medidas informadas na base de dados influenciando diretamente os cálculos de quantidade trasportada.    
+> Foi desenvolvido um dashboard interativo que mostra informações principais sobre as rotas dos fiscais do IPEM.  
+- Nele contém: Quantidade de locais fiscalizados; itens fiscalizados, filtros de período, desempenho por agente e motorista; mapa de lugares fiscalizados.
+- Limitação:    
 - Nessa primeira sprint conseguimos mostrar as principais regiões que movimentam, possibilitando uma análise geral da área de estudo.   
 
 ---
