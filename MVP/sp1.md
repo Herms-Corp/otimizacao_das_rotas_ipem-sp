@@ -16,32 +16,29 @@ Essa etapa é a estrutura para otimizar as rotas, já que através de uma análi
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Gestor do IPEM:** Precisa de um consolidado de informações tratados sobre as fiscalizações realizadas para medir o desempenho da equipe.
+- **Fiscal:** Precisa visualizar dados rapidamente para planejamento do dia.      
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|----------------------------------------------------------------------------|------------|------------|
-| US | Como gestor, quero dados tratados e padronizados, para garantir a confiabilidade dos dados.             | Alta    | 5 |
-| US | Como analista, quero dados apenas dos anos de 2013 a 2024, para avaliar a evolução temporal.            | Média   | 3 |
-| US | Como fiscal, quero filtrar por cargas, para localizar as principais origens e destinos de cada produto. | Alta    | 4 |
-| US | Como gestor, quero diagrama de cidades e estados de origens e destinos, para priorizar inspeções.       | Alta    | 5 |
-| US | Como gestor, quero um mapa interativo, para facilitar a visualização de dados.                          | Média   | 3 |
-| US | Como gestor, quero um um percentual de empresas que possue plano de emergência                          | baixa   | 1 |
-
+| US | Como gestor, quero dados consolidados sobre o histórico de fiscalização do IPEM, para avaliar o desempenho da equipe em campo.    | Alta    | 5 |
+| US | Como fiscal, quero identificar quais instrumentos possui maior índice de fiscalização, para priorizar fiscalizações.              | Alta    | 4 |
+| US | Como gestor, quero identificar a região fiscalizadas através de um mapa interativo, para parametrizar as regiões com maior e menor frequência de vistoria. | Alta    | 5  |
+| US | Como gestor, quero saber a porcentagem de aprovação por regiões | Média | 4
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Dashboard interativos com dados gerais de cargas periogosas                       | concluído |
+| 01     | Dashboard interativos com dados gerais de fiscalizações realizadas em 2018             | concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário faça uma análise geral das principais origens e destinos e suas movimentações.   
+- O MVP deve permitir que o usuário faça uma análise geral das principais fiscalizações por região.
 
 ---
 
@@ -53,9 +50,8 @@ Essa etapa é a estrutura para otimizar as rotas, já que através de uma análi
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback 
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Otimizar as rotas, permitindo que mais lugares sejam fiscalizados no mesmo período de tempo.
+- Traçar parâmetros matemáticos para implementar sistema de objetivos e metas. 
 
 ---
 
