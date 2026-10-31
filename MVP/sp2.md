@@ -173,10 +173,6 @@ As fiscalizações repetidas em uma mesma posição geográfica foram consolidad
 - Visualização dos trajetos viários: validada.
 - Publicação e testes de acesso por usuários externos: sujeitos à confirmação após disponibilização.
 
-**Número de usuários que testaram o MVP:** a registrar.
-
-**Feedback qualitativo:** a consolidar a partir dos testes com integrantes do projeto e usuários convidados.
-
 ---
 
 ### 🛠️ Tecnologias Utilizadas
@@ -235,22 +231,11 @@ Principais atividades previstas:
 
 ---
 
-### 📂 Anexos / Evidências
-
-Recomenda-se manter as evidências organizadas na pasta `Docs`, com registros das seguintes funcionalidades:
-
-- Dashboard gerencial das rotas históricas.
-- Consulta às 800 rotas cadastradas.
-- Visualização dos estabelecimentos e marcadores numerados.
-- Planejamento interativo com seleção de destinos.
-- Comparação entre rota histórica e rota otimizada.
-- Indicadores de distância e tempo estimado de deslocamento.
-
 **Repositório do projeto:**  
 https://github.com/Herms-Corp/otimizacao_das_rotas_ipem-sp
 
 **Aplicação web demonstrativa:**  
-Inserir endereço após a publicação.
+https://ipem-sp-rotas-demo.streamlit.app/
 
 #### Observações sobre os dados
 
